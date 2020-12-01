@@ -1,9 +1,10 @@
 {
-  "name": "__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__",
+  "name": "AxemaFr-2020",
   "version": "1.0.0",
-  "description": "Advent of Code __AOC_YEAR__",
+  "description": "Advent of Code 2020",
   "main": "index.js",
-  "author": "__AOC_USER_NAME__ <__AOC_USER_EMAIL__> (__AOC_USER_WEBSITE__)",
+  "type": "module",
+  "author": "Artem <AxemaFr> (axema@ingox.ru)",
   "license": "MIT",
   "scripts": {
     "test": "mocha day-*/**/test.js",
