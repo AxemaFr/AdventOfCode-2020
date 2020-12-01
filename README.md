@@ -6,6 +6,7 @@
 
 ## Days
 
+
 | Day  | Part One | Part Two |
 |---|:---:|:---:|
 | ✔ [Day 1: Report Repair](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-01)| 🌟 | 🌟 |
