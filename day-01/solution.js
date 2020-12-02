@@ -1,5 +1,3 @@
-import { INPUT } from './input.js';
-
 export const parseInput = (input) => input.split('\n').map(x => Number.parseInt(x));
 
 export const problem1 = (numbers, target, start) => {
@@ -30,5 +28,3 @@ export const problem2 = (numbers) => {
 
   return null;
 };
-
-console.log(problem2(parseInput(INPUT), 2020, 0));
