@@ -1,6 +1,5 @@
 export const problem1 = (parsedInput) => {
   return parsedInput.reduce((acc, current) => {
-    console.log(current);
     const regExp = new RegExp(current.letter, 'g');
     const entriesCount = (current.password.match(regExp) || []).length;
     if (entriesCount >= current.firstDigit && entriesCount <= current.secondDigit) {
