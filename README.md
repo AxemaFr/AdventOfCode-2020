@@ -11,7 +11,7 @@
 |---|:---:|:---:|
 | ✔ [Day 1: Report Repair](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-01)| 🌟 | 🌟 |
 | ✔ [Day 2: Password Philosophy](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-02)| 🌟 | 🌟 |
-| ✔ [Day 3: Day 3: Toboggan Trajectory](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-03)| 🌟 | 🌟 |
+| ✔ [Day 3: Toboggan Trajectory](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-03)| 🌟 | 🌟 |
 | [Day 4: TBD]()| | |
 | [Day 5: TBD]()| | |
 | [Day 6: TBD]()| | |
