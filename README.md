@@ -14,7 +14,7 @@
 | ✔ [Day 3: Toboggan Trajectory](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-03)| 🌟 | 🌟 |
 | ✔ [Day 4: Passport Processing](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-04)| 🌟 | 🌟 |
 | ✔ [Day 5: Binary Boarding](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-05)| 🌟 | 🌟 |
-| [Day 6: TBD]()| | |
+| ✔ [Day 6: Custom Customs](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-06)| 🌟 | 🌟 |
 | [Day 7: TBD]()| | |
 | [Day 8: TBD]()| | |
 | [Day 9: TBD]()| | |

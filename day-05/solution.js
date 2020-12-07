@@ -1,6 +1,3 @@
-import {INPUT} from './input.js';
-
-
 const mapToIds = (parsedInput) => {
   return parsedInput.map((input) => {
     let rowStart = 0;
