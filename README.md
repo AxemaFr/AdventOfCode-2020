@@ -15,8 +15,8 @@
 | ✔ [Day 4: Passport Processing](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-04)| 🌟 | 🌟 |
 | ✔ [Day 5: Binary Boarding](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-05)| 🌟 | 🌟 |
 | ✔ [Day 6: Custom Customs](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-06)| 🌟 | 🌟 |
-| [Day 7: TBD]()| | |
-| [Day 8: TBD]()| | |
+| ✔ [Day 7: Handy Haversacks](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-07)| 🌟 | 🌟 |
+| ✔ [Day 8: Handheld Halting](https://github.com/AxemaFr/AdventOfCode-2020/tree/master/day-08)| 🌟 | 🌟 |
 | [Day 9: TBD]()| | |
 | [Day 10: TBD]()| | |
 | [Day 11: TBD]()| | |
